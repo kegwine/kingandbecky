@@ -2780,8 +2780,8 @@ Google map
 }
 
 @media only screen and (max-width:749px) {
-  .parallax {
-    background-attachment: inherit;
+  .parallax-bg {
+    background-attachment: scroll;
   }
 }
 
