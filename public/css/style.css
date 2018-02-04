@@ -2779,6 +2779,12 @@ Google map
   }
 }
 
+@media only screen and (max-width:749px) {
+  .parallax {
+    background-attachment: inherit;
+  }
+}
+
 @media (max-width: 767px) {
   /* Navbar */
   .navbar-custom .navbar-nav {
