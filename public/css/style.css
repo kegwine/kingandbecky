@@ -1430,7 +1430,7 @@ General Styles - Owlcarousel
 .gallery-page-header {
   background-position: 50% 0%;
   background-repeat: no-repeat;
-  min-width: 100%;
+  width:100% !important;
   min-height: 100%;
 }
 
